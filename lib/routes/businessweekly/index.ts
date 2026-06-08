@@ -1,6 +1,6 @@
 import type { Route } from '@/types';
 
-import channel from './channel';
+import { route as channel } from './channel';
 
 export const route: Route[] = [channel];
 
