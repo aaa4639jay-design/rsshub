@@ -1,5 +1,3 @@
-businessweekly/channel.ts
-
 import { load } from 'cheerio';
 
 import type { Route } from '@/types';
